@@ -2,9 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
 
+https://angular.io/guide/deployment#deploy-to-github-pages
 
 ```sh
 ng new ng-github-pages --style=css --routing
+```
+
+```sh
+ng build --prod --output-path docs --base-href /ng-github-pages/
 ```
 
 ## Development server
