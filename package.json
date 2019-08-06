@@ -1,6 +1,10 @@
 {
   "name": "ng-github-pages",
   "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tja4472/ng-github-pages"
+  },  
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
