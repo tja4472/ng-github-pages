@@ -9,7 +9,7 @@ ng new ng-github-pages --style=css --routing
 ```
 
 ```sh
-ng build --prod --output-path docs --base-href /ng-github-pages/
+ng deploy --base-href /ng-github-pages/
 ```
 
 https://tja4472.github.io/ng-github-pages/
