@@ -1,5 +1,21 @@
 # NgGithubPages
 
+- https://angular.io/guide/deployment#deploy-to-github-pages
+- https://github.com/angular-schule/angular-cli-ghpages
+- https://github.com/tja4472/ng-github-pages
+
+```sh
+ng add angular-cli-ghpages
+```
+
+```sh
+ng deploy --base-href /ng-github-pages/
+```
+
+https://tja4472.github.io/ng-github-pages/
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
 
 https://angular.io/guide/deployment#deploy-to-github-pages
@@ -13,7 +29,6 @@ ng build --prod --output-path docs --base-href /ng-github-pages/
 ```
 
 https://tja4472.github.io/ng-github-pages/
-
 
 ## Development server
 
