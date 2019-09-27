@@ -14,7 +14,15 @@ ng deploy --base-href /ng-github-pages/
 
 https://tja4472.github.io/ng-github-pages/
 
+## package.json
 
+```json
+"scripts": {
+    // ...
+    "deploy": "ng deploy --base-href /ng-github-pages/",
+    // ...
+},
+```
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
 
